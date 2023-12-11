@@ -15,6 +15,8 @@ public class App {
 		 * não pode ser herdada e está pronta para uso. */
 		f.finalMethod();
 		
+		System.out.println("***");
+		
 	}
 
 }
